@@ -55,7 +55,7 @@ int main()
 				std::cout << "Неизвестная команда!" << std::endl;
 			}
 		} while (tmp != 'x');
-
+delete counter;
 
 
 }
